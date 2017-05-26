@@ -1,6 +1,5 @@
 <head>
 <title>Project Quadrant: The Final Frontier</title>
-<!-- ayy fellow code reader what's up-->
 </head>
 # This is Project Quadrant
 What is Project Quadrant you may ask? It's a repository for some good stuff.
